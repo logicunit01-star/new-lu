@@ -10,9 +10,9 @@ export const metadata: Metadata = {
 
 const founderQuotes = [
   'The chaos in your business is not random. It has a structure. And once you see the structure of it, you can fix it — but not before.',
-  'An ERP system built on top of broken processes doesn't fix your operations. It just makes the broken processes run faster.',
-  'We don't add AI to look modern. We add it where a human decision can be made better, faster, or automatically — and only there.',
-  'We don't disappear after go-live. That's not a selling point — it's a basic requirement for the work to actually hold.',
+  'An ERP system built on top of broken processes doesn\'t fix your operations. It just makes the broken processes run faster.',
+  'We don\'t add AI to look modern. We add it where a human decision can be made better, faster, or automatically — and only there.',
+  'We don\'t disappear after go-live. That\'s not a selling point — it\'s a basic requirement for the work to actually hold.',
 ]
 
 const principles = [
